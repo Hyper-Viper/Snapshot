@@ -1,0 +1,17 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 99.15%;
+    overflow-y: hidden;
+    background: #1E2328;
+}
+
+#center{
+    height: 100%;
+}
+
+#defaultCanvas0{
+    margin-top: 13%;
+}
